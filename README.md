@@ -6,7 +6,7 @@ In diesem Modul lernen Sie wie Sie mit Python Database API (PEP 249) auf eine Da
 
 Mit Hilfe des Binder-Services kann das Modul ohne Installation dierekt im Browser benutzt werden.
 
-Starten: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fprojectbase.medien.hs-duesseldorf.de%2Feild.nrw-module%2Flernmodul-datenbanken/master?filepath=Datenbankzugriff.ipynb) Das Modul lädt etwas 3 Minuten!
+Starten: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EILD-nrw/lm-database-with-python/HEAD?urlpath=notebooks%2FDatenbankzugriff.ipynb) Das Modul lädt etwas 3 Minuten!
 
 ## Start mit Docker
 
