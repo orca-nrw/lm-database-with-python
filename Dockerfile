@@ -21,3 +21,7 @@ USER ${USER}
 COPY README.md /home/${NB_USER}
 COPY Datenbankzugriff_Util.ipynb /home/${NB_USER}
 COPY Datenbankzugriff.ipynb /home/${NB_USER}
+
+EXPOSE 8888
+
+CMD ["jupyter", "notebook", "--port=8888", "--no-browser", "--ip=0.0.0.0", "--allow-root"]
