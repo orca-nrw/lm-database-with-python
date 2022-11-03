@@ -4,8 +4,8 @@ RUN pip install --no-cache --upgrade pip && \
     pip install --no-cache notebook matplotlib
 
 # create user with a home directory
-ARG NB_USER
-ARG NB_UID
+ARG NB_USER=jovan
+ARG NB_UID=1000
 ENV USER ${NB_USER}
 ENV HOME /home/${NB_USER}
 
