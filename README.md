@@ -1,6 +1,6 @@
 # Lernmodul Datenbankenzugriff mit Python
 
-In diesem Modul lernen Sie wie Sie mit Python Database API (PEP 249) auf eine Datenbank Zugreiffen und SQL-Abfragen ausführen. Sowohl das Abfragen von Daten (SELECT) als auch die Manipulation wird erklärt. Als Beispiel DBMS wird SQLite verwendet. Vorraussetzungen für die Nutzung sind Grundkenntnisse in Python und SQL.
+In diesem Modul lernen Sie wie Sie mit Python Database API (PEP 249) auf eine Datenbank Zugreiffen und SQL-Abfragen ausführen. Sowohl das Abfragen von Daten (SELECT) als auch die Manipulation wird erklärt. Als Beispiel DBMS wird SQLite verwendet. Vorraussetzungen für die Nutzung sind Grundkenntnisse in Python und SQL. Die Dauer der Bearbeitung beträgt 15 bis 20 Minuten.
 
 ## Start mit Binder 
 
