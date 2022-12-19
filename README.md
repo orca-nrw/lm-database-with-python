@@ -1,6 +1,11 @@
 # Lernmodul Datenbankverbindungen mit Python
 
-In diesem Modul lernen Sie wie Sie mit Python Database API (PEP 249) auf eine Datenbank Zugreiffen und SQL-Abfragen ausführen. Sowohl das Abfragen von Daten (SELECT) als auch die Manipulation wird erklärt. Als Beispiel DBMS wird SQLite verwendet. Vorraussetzungen für die Nutzung sind Grundkenntnisse in Python und SQL. Die Dauer der Bearbeitung beträgt 15 bis 20 Minuten.
+In diesem Jupyter-Notebook werden die Anweisungen des Python-API mit einer kleinen Datenbank erklärt. Auch wird die Verwendung einer in Python programmierten Prozedur im DBMS gezeigt. Die Beispiele können interaktiv ausgeführt werden. Als DBMS wird SQLite ohne Persistierung verwendet. Vorausgesetzt werden:
+- Grundkenntnisse Python
+- Grundkenntnisse SQL
+
+Die Dauer der Bearbeitung beträgt 15 bis 20 Minuten.
+
 
 ## Start mit Binder 
 
