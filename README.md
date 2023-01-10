@@ -1,6 +1,6 @@
 # Lernmodul Datenbankverbindungen mit Python
 
-In diesem Jupyter-Notebook werden die Anweisungen des Python-API mit einer kleinen Datenbank erklärt. Auch wird die Verwendung einer in Python programmierten Prozedur im DBMS gezeigt. Die Beispiele können interaktiv ausgeführt werden. Als DBMS wird SQLite ohne Persistierung verwendet. Vorausgesetzt werden:
+In diesem Jupyter-Notebook werden die Anweisungen der Python-API (DB-API 2.0) mit einer kleinen Datenbank erklärt. Auch wird die Verwendung einer in Python programmierten Prozedur im DBMS gezeigt. Die Beispiele können interaktiv ausgeführt werden. Als DBMS wird SQLite ohne Persistierung verwendet. Vorausgesetzt werden:
 - Grundkenntnisse Python
 - Grundkenntnisse SQL
 
