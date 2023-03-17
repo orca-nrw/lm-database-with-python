@@ -18,8 +18,14 @@ Starten: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
 Mithilfe der folgenden Befehle kann das Lernmodul auch lokal in einem Docker Container gestartet werden:
 
 ```
-git clone https://github.com/EILD-nrw/lm-database-with-python.git  && cd lm-database-with-python
+git clone https://github.com/orca-nrw/lm-database-with-python.git && cd lm-database-with-python
 docker build -t lmdbaccess:1.0 .
 docker run -p 8888:8888 lmdbaccess:1.0
 ```
 Die URL zum Aufrufen des Jupyter-Notebooks wird in der Konsole angezeigt und das Modul kann im Browser verwendet werden.
+
+### Über dieses Lernmodul
+
+Dieses Lernmodul wurde von Björn Salgert im Rahmen des EILD.nrw-Projektes erstellt, nähre Informationen unter [eild.nrw](https://eild.nrw). Die nicht anders lizenzsierten Bestandteile dieses Lermodules können unter der CC-BY-NA-Lizenz genutzt werden.
+
+<img src="eild_logos.png" alt="logos" />
