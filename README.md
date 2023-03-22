@@ -28,4 +28,4 @@ Die URL zum Aufrufen des Jupyter-Notebooks wird in der Konsole angezeigt und das
 
 Dieses Lernmodul wurde von Björn Salgert im Rahmen des EILD.nrw-Projektes erstellt, nähre Informationen unter [eild.nrw](https://eild.nrw). Die nicht anders lizenzsierten Bestandteile dieses Lermodules können unter der CC-BY-NA-Lizenz genutzt werden.
 
-<img src="eild_logos.png" alt="logos" />
+<img src="logos.jpg" alt="logos" />
