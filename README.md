@@ -1,4 +1,4 @@
-![EILD.nrw]([app/src/img/Logo-mitSchrift-v2.png](https://github.com/orca-nrw/plsql-trainer/raw/main/app/src/img/Logo-mitSchrift-v2.png))
+![EILD.nrw](https://github.com/orca-nrw/plsql-trainer/raw/main/app/src/img/Logo-mitSchrift-v2.png)
 
 # Lernmodul Datenbankverbindungen mit Python
 
