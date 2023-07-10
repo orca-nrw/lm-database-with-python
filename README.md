@@ -1,3 +1,5 @@
+![EILD.nrw]([app/src/img/Logo-mitSchrift-v2.png](https://github.com/orca-nrw/plsql-trainer/raw/main/app/src/img/Logo-mitSchrift-v2.png))
+
 # Lernmodul Datenbankverbindungen mit Python
 
 In diesem Jupyter-Notebook werden die Anweisungen der Python-API (DB-API 2.0) mit einer kleinen Datenbank erklärt. Auch wird die Verwendung einer in Python programmierten Prozedur im DBMS gezeigt. Die Beispiele können interaktiv ausgeführt werden. Als DBMS wird SQLite ohne Persistierung verwendet. Vorausgesetzt werden:
